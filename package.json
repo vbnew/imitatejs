@@ -1,0 +1,17 @@
+{
+  "name": "imitatejs",
+  "version": "1.0.1",
+  "description": "用于前端开发小伙伴模拟数据的js工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mock数据"
+  ],
+  "author": "yhaluo",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
